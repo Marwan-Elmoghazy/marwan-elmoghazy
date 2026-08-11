@@ -57,15 +57,15 @@ Software Developer with 5 years of experience specializing in modern web develop
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=marwan-official&show_icons=true&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=marwan-official&layout=compact&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=marwan-elmoghazy&show_icons=true&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=marwan-elmoghazy&layout=compact&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwan-official&bg_color=00000000&color=d29922&line=d29922&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marwan-elmoghazy&bg_color=00000000&color=d29922&line=d29922&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/marwan-official">Marwan Elmoghazy</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/marwan-elmoghazy">Marwan Elmoghazy</a></i></p>
